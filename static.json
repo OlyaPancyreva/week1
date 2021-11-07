@@ -5,7 +5,7 @@
        "Access-Control-Allow-Origin": "*"
       },
     "/login/":{
-      "X-Author": "test",
+      "X-Author": "itmo338083",
       "Access-Control-Allow-Origin": "*"
       "Content-Type": "text/plain; charset=UTF-8"
     }
