@@ -3,11 +3,6 @@
      "/*": {
        "X-Author": "itmo338083",
        "Access-Control-Allow-Origin": "*"
-      },
-    "/login/":{
-      "X-Author": "itmo338083",
-      "Access-Control-Allow-Origin": "*"
-      "Content-Type": "text/plain; charset=UTF-8"
-    }
+      }
   }
 }
